@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\bin\Debug\net9.0-windows\FigureReflectionApp.exe
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\bin\Debug\net9.0-windows\FigureReflectionApp.deps.json
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\bin\Debug\net9.0-windows\FigureReflectionApp.runtimeconfig.json
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\bin\Debug\net9.0-windows\FigureReflectionApp.dll
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\bin\Debug\net9.0-windows\FigureReflectionApp.pdb
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\FigureReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\FigureReflectionApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\FigureReflectionApp.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\FigureReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\FigureReflectionApp.dll
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\refint\FigureReflectionApp.dll
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\FigureReflectionApp.pdb
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\FigureReflectionApp.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\ITtasks\FigureReflectionApp\obj\Debug\net9.0-windows\ref\FigureReflectionApp.dll
